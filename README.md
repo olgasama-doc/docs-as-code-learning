@@ -27,3 +27,11 @@ The repository is organized into the following sections:
 - `docs/interview/` — interview preparation
 - `images/` — images and screenshots used in the documentation
 - `examples/` — examples and templates
+
+## Tools & Technologies
+
+- Git — version control
+- GitHub — repository hosting and collaboration
+- Visual Studio Code — documentation editor
+- Markdown — documentation markup language
+- MkDocs — documentation site generator
